@@ -1,4 +1,4 @@
-# mobx-research
+# Mobx 源码阅读
 
 
 > Source without secret     —— Source Man
